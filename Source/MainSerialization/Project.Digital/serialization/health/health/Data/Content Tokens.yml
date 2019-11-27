@@ -1,0 +1,14 @@
+﻿---
+ID: "5a09a763-a5bd-4023-ac0f-d6c76fd3292c"
+Parent: "9cb0025e-befe-4eff-be3a-9fd0c27dfd2d"
+Template: "29252703-d448-451c-bf1e-65b16174f4b0"
+Path: /sitecore/content/ironthrone/health/Data/Content Tokens
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191127T080025Z

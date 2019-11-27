@@ -1,0 +1,14 @@
+﻿---
+ID: "1601cd26-6e28-4340-b58f-ce38a2b87d0d"
+Parent: "9cb0025e-befe-4eff-be3a-9fd0c27dfd2d"
+Template: "af1cc1af-99cc-4e3c-9a26-3ead62890fce"
+Path: /sitecore/content/ironthrone/health/Data/Events
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191127T080113Z
