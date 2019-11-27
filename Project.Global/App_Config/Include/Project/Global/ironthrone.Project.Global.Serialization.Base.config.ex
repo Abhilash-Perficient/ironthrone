@@ -6,7 +6,7 @@
         <configuration name="Helix.Base" abstract="true">
           <predicate type="Unicorn.Predicates.SerializationPresetPredicate, Unicorn" singleInstance="true" />
 
-          <targetDataStore physicalRootPath="$(sourceFolder)\$(layer).$(module)\serialization" useDataCache="false" singleInstance="true" />
+          <targetDataStore physicalRootPath="$(sourceFolder)\MainSerialization\$(layer).$(module)\serialization" useDataCache="false" singleInstance="true" />
           <!--<dataStore physicalRootPath="$(configDirectory)\$(layer)\$(module)\serialization\$(configurationName)" />-->
 
 
@@ -27,6 +27,7 @@
             <!--<include name="Media" database="master" path="/sitecore/media library/$(layer)/$(module)" />-->
             <include name="Placeholder Settings" database="master" path="/sitecore/layout/Placeholder Settings/$(layer)/$(module)" />
             <include name="Branch Templates" database="master" path="/sitecore/templates/Branches/$(layer)/$(module)" />
+            <include name="Health Settings" database="master" path="/sitecore/system/Settings/Feature/$(layer)/$(module)" />            
           </predicate>
         </configuration>
 

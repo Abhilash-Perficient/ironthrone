@@ -70,7 +70,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="App_Config\Include\Project\Global\ironthrone.Project.Global.TenantSerialization.config" />
     <None Include="App_Config\Include\Project\Global\ironthrone.Project.Global.Serialization.Base.config.ex" />
+    <Content Include="App_Config\Include\Project\Global\ironthrone.Project.Global.Serialization.HealthSerialization.config" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
     <Content Include="Web.config" />
