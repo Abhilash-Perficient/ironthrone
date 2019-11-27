@@ -1,0 +1,19 @@
+﻿---
+ID: "6233d175-be3e-44f5-90d7-28d3a5b3d787"
+Parent: "1d13a790-89d3-493a-a94c-d09fee7bd007"
+Template: "da1cfa5b-8fab-4e8a-baa3-3b1f8d198efd"
+Path: /sitecore/content/ironthrone/health/Data/Search/Search Box
+DB: master
+BranchID: "957565a0-bf0d-4f8b-bf2c-4a8f40ec9080"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{2E7F425F-8699-475B-93CA-FBAE1D052301}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191127T080324Z
