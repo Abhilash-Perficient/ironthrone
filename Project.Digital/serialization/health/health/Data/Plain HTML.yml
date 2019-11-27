@@ -1,0 +1,14 @@
+﻿---
+ID: "66b5ec89-2b8a-47b3-ace9-f7e59ac75551"
+Parent: "9cb0025e-befe-4eff-be3a-9fd0c27dfd2d"
+Template: "5ab4ae85-0e97-4afb-8498-b93c657a0df0"
+Path: /sitecore/content/ironthrone/health/Data/Plain HTML
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191127T080232Z

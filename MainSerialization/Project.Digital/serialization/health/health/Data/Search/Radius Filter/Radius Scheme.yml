@@ -1,0 +1,23 @@
+﻿---
+ID: "eb9c3016-2a8d-459b-9cf8-d8209747e4ec"
+Parent: "04f3530c-028c-42cf-9c85-b5777b981d6f"
+Template: "5da3844c-1111-422d-a5ad-faef2b22ef2e"
+Path: /sitecore/content/ironthrone/health/Data/Search/Radius Filter/Radius Scheme
+DB: master
+BranchID: "957565a0-bf0d-4f8b-bf2c-4a8f40ec9080"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{7B521330-2F24-4EE9-B8BD-97106E26F97B}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191127T080322Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

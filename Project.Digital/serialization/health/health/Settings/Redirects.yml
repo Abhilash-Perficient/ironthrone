@@ -1,0 +1,14 @@
+﻿---
+ID: "da3cc6db-569d-4d19-9c09-ee2d73c3bdb2"
+Parent: "a4d70e7f-2b47-490a-be36-eb5b41a15a83"
+Template: "e1cf805e-7f49-4ec9-a25a-182dc798cb5f"
+Path: /sitecore/content/ironthrone/health/Settings/Redirects
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191127T080029Z
