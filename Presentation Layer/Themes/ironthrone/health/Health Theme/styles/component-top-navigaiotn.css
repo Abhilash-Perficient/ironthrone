@@ -1,0 +1,38 @@
+/* breakpoints */
+.top-nav-wrapper .top-nav.container ul {
+  list-style: none;
+}
+
+.top-nav-wrapper {
+  background: #506380;
+  padding: 5px 10px;
+}
+
+.top-nav-wrapper .top-nav.container .title {
+  display: inline-block;
+  color: #fff;
+}
+
+.top-nav-wrapper .top-nav.container .top-menu {
+  display: inline-block;
+  float: right;
+  margin: 0;
+}
+
+.top-nav-wrapper .top-nav.container .top-menu li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.top-nav-wrapper .top-nav.container .top-menu li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.top-nav-wrapper .top-nav.container .top-menu .top-submenu {
+  display: none;
+}
+
+.top-nav-wrapper .top-nav.container .top-menu .has-submenu a:first-child:after {
+  content: "^";
+}
