@@ -1,0 +1,14 @@
+﻿---
+ID: "9929f553-b87c-4d16-9df5-eb995d781015"
+Parent: "010699a1-e7b8-45ad-aa24-0b32d389143f"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Themes/ironthrone/health/Health Theme/sass/base/fontawesome
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170614T063530Z

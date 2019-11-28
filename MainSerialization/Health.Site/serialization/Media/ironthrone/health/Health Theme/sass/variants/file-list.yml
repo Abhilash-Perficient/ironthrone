@@ -1,0 +1,14 @@
+﻿---
+ID: "302cfe6e-414f-424b-8002-7e3ed203ba36"
+Parent: "762a18cd-31cd-4963-97bc-694f70b28925"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Themes/ironthrone/health/Health Theme/sass/variants/file-list"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170614T063824Z
