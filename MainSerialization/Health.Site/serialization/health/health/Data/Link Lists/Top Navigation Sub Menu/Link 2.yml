@@ -1,0 +1,22 @@
+﻿---
+ID: "fd51adfa-f58a-4928-83ef-078f4bd14908"
+Parent: "c345802d-fed0-4dac-8e7a-214b3f4dd24e"
+Template: "e24e0789-a058-48bf-abb6-c69c0e60b6b7"
+Path: /sitecore/content/ironthrone/health/Data/Link Lists/Top Navigation Sub Menu/Link 2
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191129T121021Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
+      Hint: Link
+      Value: |
+        <link text="Get a Second Appointment" linktype="external" url="https://www.ucsfhealth.org/second-opinion" anchor="" target="" />
