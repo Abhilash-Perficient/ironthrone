@@ -1,0 +1,14 @@
+﻿---
+ID: "8b6df11a-482e-4450-b898-094c4c715128"
+Parent: "45114229-ab93-414d-8b5f-ede09f9d0abd"
+Template: "45114229-ab93-414d-8b5f-ede09f9d0abd"
+Path: /sitecore/templates/Project/ironthrone/Settings/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191127T075727Z

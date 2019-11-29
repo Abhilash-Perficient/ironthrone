@@ -1,0 +1,14 @@
+﻿---
+ID: "72baa82a-ca35-4ef5-878f-a6ec983b9147"
+Parent: "de34ad49-88d0-4921-8813-3ec8511e055d"
+Template: "de34ad49-88d0-4921-8813-3ec8511e055d"
+Path: /sitecore/templates/Project/ironthrone/Tenant/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191127T075723Z

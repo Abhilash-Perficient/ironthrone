@@ -84,10 +84,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Feature.Sample\Feature.Sample.csproj">
-      <Project>{9c6e5de2-403e-452a-b5db-b82293ee9049}</Project>
-      <Name>Feature.Sample</Name>
-    </ProjectReference>
     <ProjectReference Include="..\Foundation.Serialization\Foundation.Serialization.csproj">
       <Project>{9072d862-8b4b-44ba-a056-1ef8b454f498}</Project>
       <Name>Foundation.Serialization</Name>

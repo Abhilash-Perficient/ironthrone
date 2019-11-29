@@ -1,0 +1,25 @@
+﻿---
+ID: "a34a9d57-ce2d-480b-9a11-9718b4966414"
+Parent: "dfe4c5cf-9288-4585-89e5-9aeb818b5780"
+Template: "dfe4c5cf-9288-4585-89e5-9aeb818b5780"
+Path: /sitecore/templates/Project/ironthrone/Page Design Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {DFE4C5CF-9288-4585-89E5-9AEB818B5780}
+    {F5D281F3-B112-4361-A8F6-3A35C98B775F}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191127T075729Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
