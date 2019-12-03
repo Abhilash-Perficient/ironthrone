@@ -1,0 +1,22 @@
+﻿---
+ID: "5b6aa94e-d2a9-428b-971c-053228f6d05a"
+Parent: "d427b2b1-0a51-4f2f-bb40-9f4c72f83ef4"
+Template: "e24e0789-a058-48bf-abb6-c69c0e60b6b7"
+Path: /sitecore/content/ironthrone/health/Data/Link Lists/Header Navigation Links/Patients and Visitors/Support Services and Groups
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191202T130545Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
+      Hint: Link
+      Value: |
+        <link text="Support, Services &amp; Groups" linktype="anchor" url="" anchor="" title="" class="" />

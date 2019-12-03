@@ -1,0 +1,18 @@
+﻿---
+ID: "1e47e9cd-f09a-467b-81d4-4f41572b6766"
+Parent: "bff3f6c2-4713-4c55-bd5f-f8c8a0a6ff52"
+Template: "bb8a85ab-1f6d-4518-8772-1c9f4f8dac18"
+Path: /sitecore/content/ironthrone/health/Home/Data/Header Logo
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191203T044246Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
