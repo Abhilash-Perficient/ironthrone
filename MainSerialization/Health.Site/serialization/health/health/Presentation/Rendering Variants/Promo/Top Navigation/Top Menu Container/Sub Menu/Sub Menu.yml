@@ -1,0 +1,18 @@
+﻿---
+ID: "43279968-2c8c-48f6-bdab-2d29438083b5"
+Parent: "7f66fcfb-8c3d-43b0-af24-677b04e60484"
+Template: "f4218805-86dd-4a01-a94d-7342fc392bcc"
+Path: /sitecore/content/ironthrone/health/Presentation/Rendering Variants/Promo/Top Navigation/Top Menu Container/Sub Menu/Sub Menu
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191129T115822Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
