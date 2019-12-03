@@ -1,0 +1,18 @@
+﻿---
+ID: "48b2023e-fb5f-4c66-b48c-cd1b88912f91"
+Parent: "1ae5dae1-161d-4e62-aaae-23d5a33b1a14"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: /sitecore/content/ironthrone/health/Presentation/Rendering Variants/Promo/Top Navigation
+DB: master
+SharedFields:
+- ID: "e1d5adba-8348-4127-9bb6-455936653839"
+  Hint: CssClass
+  Value: "top-navigation-wrapper"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191129T114937Z

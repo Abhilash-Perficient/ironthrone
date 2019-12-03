@@ -1,0 +1,24 @@
+﻿---
+ID: "42f8ee51-51cf-42ce-b5f3-e785a26bfda5"
+Parent: "7f66fcfb-8c3d-43b0-af24-677b04e60484"
+Template: "7c02e9f5-54b5-4ef4-bd10-f4c5d448a48c"
+Path: /sitecore/content/ironthrone/health/Presentation/Rendering Variants/Promo/Top Navigation/Top Menu Container/Sub Menu/Phone Number
+DB: master
+SharedFields:
+- ID: "8414031e-7b85-426c-8516-84d6223a1208"
+  Hint: CssClass
+  Value: "top-nav-submenu-phone"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "07211f80-7ffc-4df4-a4de-c8956f391850"
+      Hint: Text
+      Value: "Call us: (888) 689-8273"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191129T115841Z

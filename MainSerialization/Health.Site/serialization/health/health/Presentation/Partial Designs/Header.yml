@@ -1,0 +1,59 @@
+﻿---
+ID: "b9b0049f-736f-4db3-a422-4d7519ef2c7e"
+Parent: "523f3f3e-21bf-4c47-9155-6846d12253db"
+Template: "f55d28f4-7479-4f88-80da-8ebc884a0f7e"
+Path: /sitecore/content/ironthrone/health/Presentation/Partial Designs/Header
+DB: master
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: header
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{BA5DA2D5-14F7-43E8-95C4-A4EC7FE5A144}"
+              p:before="*"
+              s:ds="{C345802D-FED0-4DAC-8E7A-214B3F4DD24E}"
+              s:id="{4646BD4F-05FF-4A19-9600-4D74F2F1548B}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles&amp;TitleHeadingLevel=%7B6A44D9C6-61F0-4B69-8E1A-FDC27F96BA0F%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=4"
+              s:ph="/header/row-1-1/promo-2-2" />
+            <r
+              uid="{00C29B5E-FF90-4095-B8B3-C84D2922C1C6}"
+              p:after="r[@uid='{BA5DA2D5-14F7-43E8-95C4-A4EC7FE5A144}']"
+              s:ds="{231E4941-B67E-47FA-90B8-45C0B3ACEB24}"
+              s:id="{4646BD4F-05FF-4A19-9600-4D74F2F1548B}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles&amp;TitleHeadingLevel=%7B6A44D9C6-61F0-4B69-8E1A-FDC27F96BA0F%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=3"
+              s:ph="/header/row-1-1/promo-1-2" />
+            <r
+              uid="{34A84E6E-783D-4AEB-96A8-7CF0AEFE0827}"
+              p:after="r[@uid='{00C29B5E-FF90-4095-B8B3-C84D2922C1C6}']"
+              s:ds="{FDE33AE5-4063-4908-949F-C22BACEDBF4D}"
+              s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B48B2023E-FB5F-4C66-B48C-CD1B88912F91%7D&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=2"
+              s:ph="/header/row-1-1" />
+            <r
+              uid="{B35C4925-3F8D-4C3A-A301-143AEF963207}"
+              p:after="*[1=2]"
+              s:id="{2DA9B139-FB9C-4FD7-BE84-CB066B2D7CC3}"
+              s:par="SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;Reset Caching Options&amp;DynamicPlaceholderId=1"
+              s:ph="header" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191128T114001Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

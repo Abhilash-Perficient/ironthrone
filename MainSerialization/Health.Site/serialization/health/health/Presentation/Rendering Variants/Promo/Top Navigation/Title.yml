@@ -1,0 +1,21 @@
+﻿---
+ID: "d92844ce-0e65-4ef6-9886-25db0dde62ca"
+Parent: "48b2023e-fb5f-4c66-b48c-cd1b88912f91"
+Template: "7c02e9f5-54b5-4ef4-bd10-f4c5d448a48c"
+Path: /sitecore/content/ironthrone/health/Presentation/Rendering Variants/Promo/Top Navigation/Title
+DB: master
+SharedFields:
+- ID: "8414031e-7b85-426c-8516-84d6223a1208"
+  Hint: CssClass
+  Value: "top-nav-mainmenu-title"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "07211f80-7ffc-4df4-a4de-c8956f391850"
+      Hint: Text
+      Value: University of California San Francisco
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191129T115342Z
