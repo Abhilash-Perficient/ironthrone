@@ -45,8 +45,22 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
-              uid="{C0574D59-7B87-4A50-8E7B-037237FDB2B8}"
+              uid="{41DD5492-A9DC-4CD9-8ED0-A03B5A1E0663}"
               p:before="*"
+              s:ds="/sitecore/content/ironthrone/health/Data/Link Lists/Header Navigation Links/Conditions and Treatments"
+              s:id="{4646BD4F-05FF-4A19-9600-4D74F2F1548B}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles&amp;TitleHeadingLevel=%7B6A44D9C6-61F0-4B69-8E1A-FDC27F96BA0F%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=15"
+              s:ph="/section-content/navlinklist-2-" />
+            <r
+              uid="{C8DC4F1B-2CF3-4093-8F1A-FEDD0793379B}"
+              p:after="r[@uid='{41DD5492-A9DC-4CD9-8ED0-A03B5A1E0663}']"
+              s:ds="local:/Data/Image 1"
+              s:id="{4A0D4E0B-BC20-4F2E-BD84-A4BD35834E86}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7BBFD58B95-E042-47C7-B5BB-864CC5393C5A%7D&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=14"
+              s:ph="/section-content/navimage-1-" />
+            <r
+              uid="{C0574D59-7B87-4A50-8E7B-037237FDB2B8}"
+              p:after="r[@uid='{C8DC4F1B-2CF3-4093-8F1A-FEDD0793379B}']"
               s:ds="/sitecore/content/ironthrone/health/Data/Link Lists/Header Navigation Links/Conditions and Treatments"
               s:id="{4646BD4F-05FF-4A19-9600-4D74F2F1548B}"
               s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles&amp;TitleHeadingLevel=%7B6A44D9C6-61F0-4B69-8E1A-FDC27F96BA0F%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=5"

@@ -41,8 +41,29 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
-              uid="{0581C1A5-1BD4-4006-A81A-104B1AFC5B1E}"
+              uid="{592EB46C-0BBF-4EEC-B0B7-DC8A87B27C1A}"
               p:before="*"
+              s:ds="/sitecore/content/ironthrone/health/Data/Link Lists/Header Navigation Links/Clinics and Locations"
+              s:id="{4646BD4F-05FF-4A19-9600-4D74F2F1548B}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles&amp;TitleHeadingLevel=%7B6A44D9C6-61F0-4B69-8E1A-FDC27F96BA0F%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=13"
+              s:ph="/section-content/navlinklist-2-" />
+            <r
+              uid="{895CA638-E70A-47CC-8804-AF605287F56A}"
+              p:after="r[@uid='{592EB46C-0BBF-4EEC-B0B7-DC8A87B27C1A}']"
+              s:ds="local:/Data/Image 1"
+              s:id="{4A0D4E0B-BC20-4F2E-BD84-A4BD35834E86}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7BBFD58B95-E042-47C7-B5BB-864CC5393C5A%7D&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=12"
+              s:ph="/section-content/navimage-1-" />
+            <r
+              uid="{77685EE2-E592-4602-B487-6DCFF9EE2DD5}"
+              p:after="r[@uid='{895CA638-E70A-47CC-8804-AF605287F56A}']"
+              s:ds="local:/Data/Image 1"
+              s:id="{4A0D4E0B-BC20-4F2E-BD84-A4BD35834E86}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7BBFD58B95-E042-47C7-B5BB-864CC5393C5A%7D&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=11"
+              s:ph="/section-content/navigationimage-1-" />
+            <r
+              uid="{0581C1A5-1BD4-4006-A81A-104B1AFC5B1E}"
+              p:after="r[@uid='{77685EE2-E592-4602-B487-6DCFF9EE2DD5}']"
               s:ds="/sitecore/content/ironthrone/health/Data/Link Lists/Header Navigation Links/Clinics and Locations"
               s:id="{4646BD4F-05FF-4A19-9600-4D74F2F1548B}"
               s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles=%7B577D74C9-A6C8-4D71-BB8D-665017365319%7D&amp;TitleHeadingLevel=%7B6A44D9C6-61F0-4B69-8E1A-FDC27F96BA0F%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=4"

@@ -1,0 +1,18 @@
+﻿---
+ID: "75410259-58e8-43a0-8289-1b490381ac5f"
+Parent: "f6c0e1b1-7ec4-4485-9b19-53bd27aefc46"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/ironthrone/health/Data/Tabs/Header Tabs/Doctors/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191204T044738Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

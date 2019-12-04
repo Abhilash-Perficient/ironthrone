@@ -7,7 +7,7 @@ DB: master
 SharedFields:
 - ID: "e33b1e31-c30f-4f60-bb26-76be8f12b1cb"
   Hint: Placeholder Key
-  Value: NavigationImage
+  Value: NavImage
 Languages:
 - Language: en
   Versions:

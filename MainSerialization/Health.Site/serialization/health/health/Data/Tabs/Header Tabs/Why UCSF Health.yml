@@ -41,8 +41,22 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
-              uid="{EE866F16-24AE-4725-9B9D-61C25D860CF5}"
+              uid="{AAB666EB-47A9-44DE-BF60-AA06FC460C9D}"
               p:before="*"
+              s:ds="/sitecore/content/ironthrone/health/Data/Link Lists/Header Navigation Links/Why UCSF Health"
+              s:id="{4646BD4F-05FF-4A19-9600-4D74F2F1548B}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles&amp;TitleHeadingLevel=%7B6A44D9C6-61F0-4B69-8E1A-FDC27F96BA0F%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=21"
+              s:ph="/section-content/navlinklist-2-" />
+            <r
+              uid="{40C17BDC-F0D7-4DF1-84A9-1C9006636961}"
+              p:after="r[@uid='{AAB666EB-47A9-44DE-BF60-AA06FC460C9D}']"
+              s:ds="local:/Data/Image 1"
+              s:id="{4A0D4E0B-BC20-4F2E-BD84-A4BD35834E86}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7BBFD58B95-E042-47C7-B5BB-864CC5393C5A%7D&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=20"
+              s:ph="/section-content/navimage-1-" />
+            <r
+              uid="{EE866F16-24AE-4725-9B9D-61C25D860CF5}"
+              p:after="r[@uid='{40C17BDC-F0D7-4DF1-84A9-1C9006636961}']"
               s:ds="/sitecore/content/ironthrone/health/Data/Link Lists/Header Navigation Links/Why UCSF Health"
               s:id="{4646BD4F-05FF-4A19-9600-4D74F2F1548B}"
               s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles&amp;TitleHeadingLevel=%7B6A44D9C6-61F0-4B69-8E1A-FDC27F96BA0F%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=8"
