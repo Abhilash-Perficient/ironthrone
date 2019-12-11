@@ -1,0 +1,22 @@
+﻿---
+ID: "812f6208-a288-45c6-a507-91e65e6bd1c0"
+Parent: "135d5713-dda9-4866-86ad-113e1d004a0e"
+Template: "bb8a85ab-1f6d-4518-8772-1c9f4f8dac18"
+Path: /sitecore/content/ironthrone/health/Presentation/Partial Designs/Footer/Data/Image 2
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191204T104143Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "ebe4fdef-16d5-4d19-833c-24a241628a3a"
+      Hint: Image
+      Value: |
+        <image mediaid="{5DCED8EB-A20F-4B40-8228-A6D1BF73B651}" />

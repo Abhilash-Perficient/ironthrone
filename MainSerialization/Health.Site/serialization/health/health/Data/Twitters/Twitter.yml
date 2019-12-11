@@ -1,0 +1,18 @@
+﻿---
+ID: "0c10236d-3bec-49eb-9f8b-e917f39bc39b"
+Parent: "9dadb944-1782-4f1e-ae09-d0105e99f8b9"
+Template: "c27aaa1e-2764-46e4-908c-bb3a4c75c68f"
+Path: /sitecore/content/ironthrone/health/Data/Twitters/Twitter
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191209T092728Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
