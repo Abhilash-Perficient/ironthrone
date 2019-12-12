@@ -1,8 +1,8 @@
 ﻿---
-ID: "73fd6ae1-7eee-4836-b451-ddea435b3a19"
+ID: "4e28409f-6b35-4043-86f6-c3c38a844e23"
 Parent: "8f98808f-407d-452f-94c2-cac6174c514e"
 Template: "e24e0789-a058-48bf-abb6-c69c0e60b6b7"
-Path: /sitecore/content/ironthrone/health/Data/Links/Link2
+Path: /sitecore/content/ironthrone/health/Data/Links/Refer a patient
 DB: master
 Languages:
 - Language: en
@@ -11,12 +11,12 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20191203T095358Z
+      Value: 20191209T113614Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
-        sitecore\Admin
+        sitecore\admin
     - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
       Hint: Link
       Value: |
-        <link linktype="internal" text="Get a second opinion" class="clipboard" anchor="Get a second opinion" querystring="" target="" id="{0D137628-F2BB-4BCF-8C69-CC172ADB2DBF}" />
+        <link text="Refer a Patient" linktype="javascript" url="" anchor="" class="fa fa-id-card" />
