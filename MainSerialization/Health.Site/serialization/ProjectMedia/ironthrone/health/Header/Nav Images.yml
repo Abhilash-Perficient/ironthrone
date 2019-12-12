@@ -1,0 +1,18 @@
+﻿---
+ID: "4fecd5e3-cfdd-4251-9c39-218d63fbd70b"
+Parent: "69575632-a589-4eaa-a2dc-e66ae56799bf"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/ironthrone/health/Header/Nav Images
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191204T041738Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
