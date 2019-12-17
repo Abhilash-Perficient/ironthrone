@@ -1,0 +1,28 @@
+﻿---
+ID: "5beaf0dd-ae38-4b08-ba80-3066de3945e5"
+Parent: "343441b7-c55f-41ea-b3f5-4d6c194a07e4"
+Template: "f4218805-86dd-4a01-a94d-7342fc392bcc"
+Path: /sitecore/content/ironthrone/health/Presentation/Rendering Variants/Navigation/Placeholder Navigation/Navigation Image
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+- ID: "e33b1e31-c30f-4f60-bb26-76be8f12b1cb"
+  Hint: Placeholder Key
+  Value: NavigationImage
+- ID: "e9d58e74-648f-4a20-a8ee-f95c171601b3"
+  Hint: CssClass
+  Value: "navigation-image"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191212T053159Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

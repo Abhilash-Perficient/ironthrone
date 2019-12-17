@@ -1,0 +1,18 @@
+﻿---
+ID: "9edbabe0-f191-4667-a45f-724debec0582"
+Parent: "bfeed97b-6ab9-4b5e-bd5e-981a00c373fb"
+Template: "c645dd63-2462-470c-a48d-8b55757a2db3"
+Path: /sitecore/content/ironthrone/health/Presentation/Rendering Variants/Page Content/Search Content/Search Icon Block/Search Icon
+DB: master
+SharedFields:
+- ID: "a0300a99-8d01-476c-a4ca-3ff253e6a48f"
+  Hint: CssClass
+  Value: "fa fa-search"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191217T090351Z

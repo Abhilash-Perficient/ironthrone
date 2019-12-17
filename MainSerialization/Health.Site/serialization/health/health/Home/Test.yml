@@ -1,0 +1,36 @@
+﻿---
+ID: "95dbcf1a-1d6f-4743-90c4-b403c97e845f"
+Parent: "0d137628-f2bb-4bcf-8c69-cc172adb2dbf"
+Template: "56510be6-a239-4982-ac9f-d4dc7c3b20d7"
+Path: /sitecore/content/ironthrone/health/Home/Test
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{449FB995-D29E-4EAA-9892-B17E55FCCD6E}"
+              s:ds="{00041128-230E-4495-A0CB-492DFBCE734F}"
+              s:id="{5A21C781-8E74-4DD0-8261-8CCDA1BF0454}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;Styles&amp;Navigation=%7B848DFE42-2B13-430E-A0B9-89CE25730A06%7D&amp;Transition=%7BD4B706CC-7EEC-4DB9-A87D-123B29803490%7D&amp;Timeout=2000&amp;PauseOnHover=1&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191209T104849Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Test
+    - ID: "8bd30636-b2dd-42db-9030-7770a874f8b5"
+      Hint: Title
+      Value: Test

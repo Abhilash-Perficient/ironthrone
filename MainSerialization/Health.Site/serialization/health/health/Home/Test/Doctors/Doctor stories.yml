@@ -1,0 +1,20 @@
+﻿---
+ID: "7a922bee-4406-46e7-bb46-bda8d2c924ef"
+Parent: "79ede7dc-918a-460e-9886-8a03a276bb4c"
+Template: "56510be6-a239-4982-ac9f-d4dc7c3b20d7"
+Path: /sitecore/content/ironthrone/health/Home/Test/Doctors/Doctor stories
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191212T051736Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Doctor stories
+    - ID: "8bd30636-b2dd-42db-9030-7770a874f8b5"
+      Hint: Title
+      Value: Doctor stories

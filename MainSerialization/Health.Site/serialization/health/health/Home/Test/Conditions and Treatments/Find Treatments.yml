@@ -1,0 +1,20 @@
+﻿---
+ID: "1b5c0c2d-5813-427c-b135-455309898d2c"
+Parent: "ac83636f-7b70-40d8-a6c1-0d53b936bb38"
+Template: "56510be6-a239-4982-ac9f-d4dc7c3b20d7"
+Path: /sitecore/content/ironthrone/health/Home/Test/Conditions and Treatments/Find Treatments
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191212T051607Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Find Treatments
+    - ID: "8bd30636-b2dd-42db-9030-7770a874f8b5"
+      Hint: Title
+      Value: Find Treatments

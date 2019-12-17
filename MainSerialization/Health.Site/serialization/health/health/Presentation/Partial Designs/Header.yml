@@ -22,8 +22,29 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
-              uid="{306151FE-E837-45FB-8885-4AF788E456B2}"
+              uid="{5D1673F4-2B27-4E0D-9EF5-2C98C573D459}"
               p:before="*"
+              s:ds="local:/Data/Image 2"
+              s:id="{4A0D4E0B-BC20-4F2E-BD84-A4BD35834E86}"
+              s:par="GridParameters=%7B181E9F6F-3154-4713-A78E-3E8C8DEEC7C8%7D&amp;FieldNames=%7BF490A74D-91D3-4A14-93A0-8F771C6814C8%7D&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=7"
+              s:ph="/header/row-2-1" />
+            <r
+              uid="{29A055C8-D679-4D87-B653-2D1B076F2322}"
+              p:after="r[@uid='{5D1673F4-2B27-4E0D-9EF5-2C98C573D459}']"
+              s:ds="{8401B067-C706-4ED9-9005-8C6215B5BB4E}"
+              s:id="{886B8CCC-816E-4D3A-BF05-4876B6C23686}"
+              s:par="GridParameters=%7B58520AF2-90BB-4035-A476-8F8A8E3B8BC5%7D&amp;Styles&amp;TabControlBelowContent&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=8"
+              s:ph="/header/row-2-1" />
+            <r
+              uid="{FC82DA7F-EF41-4498-B5A2-88101C1AD696}"
+              p:after="r[@uid='{29A055C8-D679-4D87-B653-2D1B076F2322}']"
+              s:id="{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
+              s:par="GridParameters=%7B505A901E-CDCC-4885-8A9E-E808B80D3832%7D&amp;FieldNames=%7B39DC9F23-5F9F-47A1-9D3F-A73FE613FC48%7D&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=22"
+              s:ph="/header/row-2-1"
+              s:ds="" />
+            <r
+              uid="{306151FE-E837-45FB-8885-4AF788E456B2}"
+              p:after="r[@uid='{FC82DA7F-EF41-4498-B5A2-88101C1AD696}']"
               s:ds="{0DEFF41F-8700-482C-882A-5A1C3BC8C1D0}"
               s:id="{3972C278-7E7A-4C2B-A293-66AF860F5C3A}"
               s:par="GridParameters=%7B62BDED33-7AB9-48C0-BB73-9C353D884FCC%7D&amp;FieldNames&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=5"
@@ -52,6 +73,7 @@ Languages:
             <r
               uid="{B35C4925-3F8D-4C3A-A301-143AEF963207}"
               p:after="*[1=2]"
+              s:ds=""
               s:id="{2DA9B139-FB9C-4FD7-BE84-CB066B2D7CC3}"
               s:par="SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;Reset Caching Options&amp;DynamicPlaceholderId=1"
               s:ph="header" />
