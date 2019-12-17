@@ -4,7 +4,6 @@ Parent: "12f9cbac-28f2-4ca4-ab40-9fcada8fd42f"
 Template: "3a1dde20-0a86-492a-81ee-5f56c827fa94"
 Path: /sitecore/content/ironthrone/health/Presentation/POI Types
 DB: master
-BranchID: "f4371cd2-fd6d-4c4e-910d-8e1095c67b25"
 SharedFields:
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator

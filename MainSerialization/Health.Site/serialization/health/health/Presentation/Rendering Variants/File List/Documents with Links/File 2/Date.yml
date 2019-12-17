@@ -4,7 +4,6 @@ Parent: "490e796c-fe61-4c74-b66e-28842089ae78"
 Template: "dc4ebc23-a470-4b5d-8df8-4a55fa823bb4"
 Path: /sitecore/content/ironthrone/health/Presentation/Rendering Variants/File List/Documents with Links/File 2/Date
 DB: master
-BranchID: "83becf6f-0518-4128-a395-8906981b7cb1"
 SharedFields:
 - ID: "4753764c-c05a-4623-841b-97f85135241c"
   Hint: FieldName

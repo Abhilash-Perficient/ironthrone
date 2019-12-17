@@ -4,7 +4,6 @@ Parent: "a2d75749-67ac-479f-947d-8d78d13a5d4d"
 Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
 Path: /sitecore/content/ironthrone/health/Presentation/Rendering Variants/Media Link/Default
 DB: master
-BranchID: "630530a2-bfbf-4538-8fc0-41f4e5a5a2b8"
 SharedFields:
 - ID: "90294353-706a-431c-b855-cd245824d9fa"
   Hint: LinkField

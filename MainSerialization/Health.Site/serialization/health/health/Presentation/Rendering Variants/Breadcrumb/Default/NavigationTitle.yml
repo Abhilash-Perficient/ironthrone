@@ -4,7 +4,6 @@ Parent: "c48d8475-65a6-4880-bb01-f34350f46108"
 Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
 Path: /sitecore/content/ironthrone/health/Presentation/Rendering Variants/Breadcrumb/Default/NavigationTitle
 DB: master
-BranchID: "de3cdf1f-5d97-4c56-b213-94c2754261c6"
 SharedFields:
 - ID: "4753764c-c05a-4623-841b-97f85135241c"
   Hint: FieldName
