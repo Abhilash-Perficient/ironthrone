@@ -4,7 +4,6 @@ Parent: "147b0674-64b2-469b-9aca-4516df8fefde"
 Template: "c58ee915-aa14-49bf-bee4-c821cac26913"
 Path: /sitecore/content/ironthrone/health/Presentation/POI Types/My Location POI
 DB: master
-BranchID: "f4371cd2-fd6d-4c4e-910d-8e1095c67b25"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
