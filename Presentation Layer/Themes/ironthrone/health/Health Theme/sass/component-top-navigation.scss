@@ -1,0 +1,110 @@
+@import "abstracts/mixins";
+@import "abstracts/vars";
+@import "base/fontawesome/font-awesome-mix-var";
+
+#wrapper{
+    min-height: 500px;
+    padding: 0 15px;
+}
+.top-navigation-wrapper {
+    &.promo {
+        display: table;
+        background: $bg-navy-blue;
+        color: $text-white;
+        padding: 0 25px;
+        overflow: visible;
+        .component-content {
+            display: table-row;
+        }
+        .top-nav-item {
+            display: table-cell;
+            padding: 0;
+            vertical-align: middle;
+            font-size: $font-normal;
+            &>div{
+                margin: 0 10px;
+                &:first-child{
+                    margin-left:0;
+                }
+                &:last-child{
+                    margin: 0 -15px 0 0;
+                }
+            }
+            .link {
+                display: inline-block;
+                width: auto;
+                flex: none;
+                .field-link {
+                    a {
+                        text-decoration: none;
+                        border: none;
+                        color: $text-white;
+                    }
+                }
+            }
+            .dropdown-list {
+                display: inline-block;
+                .link-list {
+                    position: relative;
+                    padding: 0 15px;
+                    h3 {
+                        color: $text-white;
+                        border: none;
+                        margin: 0;
+                        font-size: $font-normal;
+                        font-weight: 400;
+                        cursor: pointer;
+                        &:after {
+                            font-family: "FontAwesome";
+                            content: "\f107";
+                            position: relative;
+                            margin: 0 0 0 5px;
+                            font-size: $navigation-font-basic-submenu;
+                            font-weight: 600;
+                        }
+                    }
+                    ul {
+                        display: none;
+                        position: absolute;
+                        top: 25px;
+                        left: 0;
+                        background: $bg-navy-blue;
+                        z-index: 1;
+                        padding: 0 10px 10px;
+                        li{
+                            text-align: left;
+                            margin: 0;
+                            a{
+                                color: $text-white;
+                                margin: 0;
+                                padding: 0;
+                                &:before{
+                                    content: "";
+                                }
+                            }
+                        }
+                    }
+                }
+                .top-nav-contact {
+                    display: none;
+                }
+                &.active{
+                    h3{
+                        &:after{
+                            content:"\f106";
+                        }
+                    }
+                    ul{
+                        display: block;
+                        .top-nav-contact{
+                            display: block;
+                        }
+                    }
+                }
+            }
+            &.top-nav-menu-container {
+                text-align: right;
+            }
+        }
+    }
+}
