@@ -1,13 +1,13 @@
 ﻿---
-ID: "bfeed97b-6ab9-4b5e-bd5e-981a00c373fb"
-Parent: "39dc9f23-5f9f-47a1-9d3f-a73fe613fc48"
+ID: "993dd1df-2da6-47de-a4e1-2e38ec946f5e"
+Parent: "7e098bc4-633a-439b-b381-f0760d106efb"
 Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
-Path: /sitecore/content/ironthrone/health/Presentation/Rendering Variants/Page Content/Search Content/Search Icon Block
+Path: /sitecore/content/ironthrone/health/Presentation/Rendering Variants/Page Content/Search Icon/Search Icon
 DB: master
 SharedFields:
 - ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"
   Hint: CssClass
-  Value: "position-right"
+  Value: "search-icon"
 Languages:
 - Language: en
   Versions:
@@ -15,4 +15,4 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20191217T081245Z
+      Value: 20191218T083750Z

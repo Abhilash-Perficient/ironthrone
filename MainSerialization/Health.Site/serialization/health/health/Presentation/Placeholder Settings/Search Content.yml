@@ -1,0 +1,22 @@
+﻿---
+ID: "96e6490b-88c4-40f1-acad-64bd3959d8d4"
+Parent: "5981e4f8-d385-4b6a-b017-8a186fce3dc5"
+Template: "1ca0304b-e5b6-4810-8211-54426f1752c2"
+Path: /sitecore/content/ironthrone/health/Presentation/Placeholder Settings/Search Content
+DB: master
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: SearchContent
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191218T054432Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

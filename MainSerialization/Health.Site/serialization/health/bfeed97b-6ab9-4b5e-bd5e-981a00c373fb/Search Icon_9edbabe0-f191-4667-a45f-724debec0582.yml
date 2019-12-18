@@ -7,7 +7,7 @@ DB: master
 SharedFields:
 - ID: "a0300a99-8d01-476c-a4ca-3ff253e6a48f"
   Hint: CssClass
-  Value: "fa fa-search"
+  Value: "fa fa-search "
 Languages:
 - Language: en
   Versions:

@@ -1,0 +1,18 @@
+﻿---
+ID: "683b220f-5579-49fd-b5ae-e1163d03b2b9"
+Parent: "5dfc7abd-4f2c-44e6-b5cf-640afcd44aca"
+Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
+Path: "/sitecore/content/ironthrone/health/Presentation/Rendering Variants/Page Content/Search Content/Search Content/Search-box Section"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191218T083324Z

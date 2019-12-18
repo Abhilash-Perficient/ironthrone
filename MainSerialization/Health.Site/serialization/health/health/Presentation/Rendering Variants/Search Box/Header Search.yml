@@ -1,13 +1,13 @@
 ﻿---
-ID: "9c4f4843-1cfe-4d19-80f9-9fe43d21f009"
+ID: "d5bb2062-3960-4951-bf47-48d3696a677e"
 Parent: "30f52983-e244-4090-b4b2-1350b93a8600"
 Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
-Path: /sitecore/content/ironthrone/health/Presentation/Rendering Variants/Search Box/horizontal
+Path: /sitecore/content/ironthrone/health/Presentation/Rendering Variants/Search Box/Header Search
 DB: master
 SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 200
+  Value: 100
 - ID: "e1d5adba-8348-4127-9bb6-455936653839"
   Hint: CssClass
   Value: horizontal
