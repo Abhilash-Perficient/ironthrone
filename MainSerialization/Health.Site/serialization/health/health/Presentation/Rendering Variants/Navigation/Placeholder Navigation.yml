@@ -1,0 +1,14 @@
+﻿---
+ID: "343441b7-c55f-41ea-b3f5-4d6c194a07e4"
+Parent: "5e710707-e6ce-4e2e-8aa5-4d8944a23798"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: /sitecore/content/ironthrone/health/Presentation/Rendering Variants/Navigation/Placeholder Navigation
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191212T053146Z

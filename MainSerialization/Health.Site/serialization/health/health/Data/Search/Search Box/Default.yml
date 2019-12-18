@@ -19,3 +19,9 @@ Languages:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20191127T080324Z
+    - ID: "7b0dcd82-5a3b-413c-ac54-e3f26ed2c37e"
+      Hint: TextBoxText
+      Value: "What can we help you find?"
+    - ID: "a799c388-0d5e-4196-ac39-addc9f76756c"
+      Hint: SearchButtonText
+      Value: .

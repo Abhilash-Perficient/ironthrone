@@ -1,0 +1,18 @@
+﻿---
+ID: "1b7e561c-0852-498c-b339-1e128c401499"
+Parent: "26c4ec2e-308e-461d-8f84-440e7c440782"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/ironthrone/health/Presentation/Styles/Custom/Search Button
+DB: master
+SharedFields:
+- ID: "09147fb2-ebfb-4949-8c8e-26a424409d5e"
+  Hint: Value
+  Value: "fa fa-search"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191218T064908Z

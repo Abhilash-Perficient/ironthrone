@@ -1,0 +1,14 @@
+﻿---
+ID: "7e098bc4-633a-439b-b381-f0760d106efb"
+Parent: "69fe8fa7-802a-410b-9a4e-11109da72ed2"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: /sitecore/content/ironthrone/health/Presentation/Rendering Variants/Page Content/Search Icon
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191218T083736Z
