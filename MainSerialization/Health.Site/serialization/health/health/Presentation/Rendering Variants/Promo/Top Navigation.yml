@@ -1,5 +1,5 @@
 ﻿---
-ID: "48b2023e-fb5f-4c66-b48c-cd1b88912f91"
+ID: "55cfb1d3-d4fd-4e83-98e1-cec5dc15198b"
 Parent: "1ae5dae1-161d-4e62-aaae-23d5a33b1a14"
 Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
 Path: /sitecore/content/ironthrone/health/Presentation/Rendering Variants/Promo/Top Navigation
@@ -7,7 +7,7 @@ DB: master
 SharedFields:
 - ID: "e1d5adba-8348-4127-9bb6-455936653839"
   Hint: CssClass
-  Value: "top-navigation-wrapper"
+  Value: "top-navigation-wrapper top-nav"
 Languages:
 - Language: en
   Versions:
