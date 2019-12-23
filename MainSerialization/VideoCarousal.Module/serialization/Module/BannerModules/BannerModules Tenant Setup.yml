@@ -1,0 +1,17 @@
+﻿---
+ID: "081a25eb-d718-4941-bf2c-30d4fa039843"
+Parent: "15bdedf7-172a-4466-b62d-61b0f5fd12f9"
+Template: "141df88e-7156-4d2e-a004-c8c1a7c51e9d"
+Path: /sitecore/system/Settings/Feature/BannerModules/BannerModules Tenant Setup
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191218T070551Z
+    - ID: "c202067e-7fab-4606-afb4-e76df2185ddc"
+      Hint: Name
+      Value: BannerModules

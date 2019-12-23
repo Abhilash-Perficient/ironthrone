@@ -1,0 +1,14 @@
+﻿---
+ID: "0b4e87ac-075c-4fbc-a4c2-efcbc7fbf4b8"
+Parent: "9cb0025e-befe-4eff-be3a-9fd0c27dfd2d"
+Template: "65afc844-50f3-4b3f-9081-800345f5e487"
+Path: /sitecore/content/ironthrone/health/Data/BannerCarousel
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191218T090526Z

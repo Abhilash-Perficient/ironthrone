@@ -8,7 +8,7 @@ BranchID: "b90549b5-c997-4d6b-b102-c9ab82528974"
 SharedFields:
 - ID: "db51d4e9-c24d-4670-af0e-62c8aa08e2b6"
   Hint: LocalData
-  Value: 
+  Value: "{0FA810AA-F408-4656-8EF0-CC2A8ACBDA9A}"
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{92EB9EFB-88D4-4089-82BE-AAD92D4FA24E}"
@@ -26,46 +26,10 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
-              uid="{CEEAFF26-D382-451D-97DE-935D49ABBD13}"
-              p:before="*"
-              s:ds="{BE5FC8B2-CA7A-4252-A570-D8EF9B698015}"
-              s:id="{3972C278-7E7A-4C2B-A293-66AF860F5C3A}"
-              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7B03EA3C58-9F87-41D5-95D6-4B899C88572E%7D%7C%7BB61D0C31-66A7-4B67-A8DB-77671188FF4D%7D&amp;FieldNames&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=3"
-              s:ph="/main/container-1" />
-            <r
-              uid="{C25D7842-7A0E-4213-AE42-8CA9C9F3C914}"
-              p:after="r[@uid='{CEEAFF26-D382-451D-97DE-935D49ABBD13}']"
-              s:ds="{5F021804-F845-4677-AA3B-05EC279672FD}"
-              s:id="{3972C278-7E7A-4C2B-A293-66AF860F5C3A}"
-              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7B03EA3C58-9F87-41D5-95D6-4B899C88572E%7D%7C%7BB61D0C31-66A7-4B67-A8DB-77671188FF4D%7D&amp;FieldNames&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=5"
-              s:ph="/main/container-1" />
-            <r
-              uid="{AD8F9DEE-EDAE-4AB1-AA35-91EB80E3594E}"
-              p:after="r[@uid='{C25D7842-7A0E-4213-AE42-8CA9C9F3C914}']"
-              s:ds="{73FD6AE1-7EEE-4836-B451-DDEA435B3A19}"
-              s:id="{3972C278-7E7A-4C2B-A293-66AF860F5C3A}"
-              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7B03EA3C58-9F87-41D5-95D6-4B899C88572E%7D%7C%7BB61D0C31-66A7-4B67-A8DB-77671188FF4D%7D&amp;FieldNames&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=4"
-              s:ph="/main/container-1" />
-            <r
-              uid="{D79BF892-0304-43EF-8584-AA26E2110D05}"
-              p:after="r[@uid='{AD8F9DEE-EDAE-4AB1-AA35-91EB80E3594E}']"
-              s:ds="{8A2286F8-7903-4EC6-8564-3921F0CE60ED}"
-              s:id="{3972C278-7E7A-4C2B-A293-66AF860F5C3A}"
-              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7B03EA3C58-9F87-41D5-95D6-4B899C88572E%7D%7C%7BB61D0C31-66A7-4B67-A8DB-77671188FF4D%7D&amp;FieldNames&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=6"
-              s:ph="/main/container-1" />
-            <r
-              uid="{D06CEE78-2F3B-4166-B370-994E20CBBB67}"
-              p:after="r[@uid='{D79BF892-0304-43EF-8584-AA26E2110D05}']"
-              s:ds="local:/Data/Data1"
-              s:id="{5A21C781-8E74-4DD0-8261-8CCDA1BF0454}"
-              s:par="RenderingIdentifier&amp;Styles&amp;Reset Caching Options&amp;PauseOnHover=1&amp;Timeout=2000&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;Navigation=%7B848DFE42-2B13-430E-A0B9-89CE25730A06%7D&amp;DynamicPlaceholderId=2&amp;Transition=%7BD4B706CC-7EEC-4DB9-A87D-123B29803490%7D"
-              s:ph="/main/container-1" />
-            <r
-              uid="{98B92AC0-737C-4673-9AAB-48D44C5FC8A1}"
-              p:after="*[1=2]"
-              s:ds=""
-              s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
-              s:par="RenderingIdentifier&amp;Styles=%7B83140A44-82A8-44C6-B9A3-0F774D7053A0%7D&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;DynamicPlaceholderId=1&amp;BackgroundImage&amp;Reset Caching Options"
+              uid="{3629FD58-57DE-4D60-AE99-DB4FBAB9C932}"
+              s:ds="local:/Data/VideoCarouselDS"
+              s:id="{2A68BD58-1B60-4C49-96CD-F470C936F2D4}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;Styles&amp;Navigation=%7B848DFE42-2B13-430E-A0B9-89CE25730A06%7D&amp;Transition=%7BD4B706CC-7EEC-4DB9-A87D-123B29803490%7D&amp;Timeout=2000&amp;PauseOnHover=1&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
               s:ph="main" />
           </d>
         </r>

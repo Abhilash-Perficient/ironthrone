@@ -1,0 +1,23 @@
+﻿---
+ID: "28275f65-dc18-4653-b92d-d19fa303b143"
+Parent: "0fa810aa-f408-4656-8ef0-cc2a8acbda9a"
+Template: "a016c107-971c-4c16-a871-a6433b58041a"
+Path: /sitecore/content/ironthrone/health/Home/Data/VideoCarouselDS
+DB: master
+BranchID: "3e202b19-d6e1-4de2-bf31-c253fbcfb22c"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{0505A40B-BC52-4E98-933F-4BCE6EDA6065}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191218T091924Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

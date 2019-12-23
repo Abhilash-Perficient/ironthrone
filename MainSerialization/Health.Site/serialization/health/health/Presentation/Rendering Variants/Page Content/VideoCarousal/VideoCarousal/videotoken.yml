@@ -1,0 +1,24 @@
+﻿---
+ID: "48047b9e-6c18-4e97-88ee-185bbde9566a"
+Parent: "8ffad82f-4c49-451e-883d-ef4a8af6b07a"
+Template: "6eca12e9-f4d5-4f6e-9c3c-6df716bc593b"
+Path: /sitecore/content/ironthrone/health/Presentation/Rendering Variants/Page Content/VideoCarousal/VideoCarousal/videotoken
+DB: master
+SharedFields:
+- ID: "3a4dd4df-8d32-405f-831a-39f87a550085"
+  Hint: Token
+  Value: $videofield
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191219T102258Z
+    - ID: "b6038067-9832-418f-b04f-c7ea5731dd5b"
+      Hint: Prefix
+      Value: 
