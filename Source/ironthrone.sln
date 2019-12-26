@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project.Global", "Project.G
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Feature.VideoCarousal", "Feature.VideoCarousal\Feature.VideoCarousal.csproj", "{8A0378F1-91B2-49C2-966E-804017E029ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foundation.Dlls", "Foundation.Dlls\Foundation.Dlls.csproj", "{80BE2EA5-4235-4219-9E0D-0C9F3C3C3791}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{8A0378F1-91B2-49C2-966E-804017E029ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A0378F1-91B2-49C2-966E-804017E029ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A0378F1-91B2-49C2-966E-804017E029ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80BE2EA5-4235-4219-9E0D-0C9F3C3C3791}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80BE2EA5-4235-4219-9E0D-0C9F3C3C3791}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80BE2EA5-4235-4219-9E0D-0C9F3C3C3791}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80BE2EA5-4235-4219-9E0D-0C9F3C3C3791}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -41,6 +47,7 @@ Global
 		{9072D862-8B4B-44BA-A056-1EF8B454F498} = {BC3EEEAF-37A7-4CD4-BFAE-B9C6B0FB71A7}
 		{D7CE7897-3320-42DD-958E-94A1ADC5A0F3} = {03A29231-AA21-4D11-B620-E13A39976ADB}
 		{8A0378F1-91B2-49C2-966E-804017E029ED} = {EFC87F22-F357-4275-B822-D85A4B54B1B6}
+		{80BE2EA5-4235-4219-9E0D-0C9F3C3C3791} = {BC3EEEAF-37A7-4CD4-BFAE-B9C6B0FB71A7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C17CD9CA-B46A-4429-A717-A76856E86922}

@@ -236,8 +236,9 @@
     <Reference Include="Sitecore.Web, Version=5.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\Sitecore.Web.9.3.0\lib\net471\Sitecore.Web.dll</HintPath>
     </Reference>
-    <Reference Include="Sitecore.XA.Feature.Composites">
-      <HintPath>C:\inetpub\wwwroot\ucsfpractice.sc\bin\Sitecore.XA.Feature.Composites.dll</HintPath>
+    <Reference Include="Sitecore.XA.Feature.Composites, Version=5.9.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Foundation.Dlls\lib\Sitecore.XA.Feature.Composites.dll</HintPath>
     </Reference>
     <Reference Include="Sitecore.XA.Foundation.Abstractions, Version=6.10.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\Sitecore.XA.Foundation.Abstractions.9.3.0\lib\net471\Sitecore.XA.Foundation.Abstractions.dll</HintPath>
@@ -250,7 +251,7 @@
     </Reference>
     <Reference Include="Sitecore.XA.Foundation.DynamicPlaceholders, Version=5.9.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\inetpub\wwwroot\ucsfpractice.sc\bin\Sitecore.XA.Foundation.DynamicPlaceholders.dll</HintPath>
+      <HintPath>..\Foundation.Dlls\lib\Sitecore.XA.Foundation.DynamicPlaceholders.dll</HintPath>
     </Reference>
     <Reference Include="Sitecore.XA.Foundation.Editing, Version=6.10.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\Sitecore.XA.Foundation.Editing.9.3.0\lib\net471\Sitecore.XA.Foundation.Editing.dll</HintPath>
@@ -300,8 +301,8 @@
     <Reference Include="Sitecore.XA.Foundation.TokenResolution, Version=6.10.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\Sitecore.XA.Foundation.TokenResolution.9.3.0\lib\net471\Sitecore.XA.Foundation.TokenResolution.dll</HintPath>
     </Reference>
-    <Reference Include="Sitecore.XA.Foundation.Variants.Abstractions, Version=6.10.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Sitecore.XA.Foundation.Variants.Abstractions.9.3.0\lib\net471\Sitecore.XA.Foundation.Variants.Abstractions.dll</HintPath>
+    <Reference Include="Sitecore.XA.Foundation.Variants.Abstractions, Version=5.9.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Sitecore.XA.Foundation.Variants.Abstractions.5.9.0\lib\net471\Sitecore.XA.Foundation.Variants.Abstractions.dll</HintPath>
     </Reference>
     <Reference Include="Sitecore.Zip, Version=12.1.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\Sitecore.Zip.9.3.0\lib\net471\Sitecore.Zip.dll</HintPath>
