@@ -1,0 +1,31 @@
+﻿---
+ID: "5006e7a3-124c-4732-8b31-227934ee58af"
+Parent: "6cd06b32-91ba-4f98-a89e-acdd874e515f"
+Template: "6cd06b32-91ba-4f98-a89e-acdd874e515f"
+Path: /sitecore/templates/Feature/BannerModules/Rendering Parameters/BannerCarousel/__Standard Values
+DB: master
+SharedFields:
+- ID: "011974c5-54cd-4718-9061-dcb90c63d91e"
+  Hint: Navigation
+  Value: "{848DFE42-2B13-430E-A0B9-89CE25730A06}"
+- ID: "0fe80cb9-7a12-4c81-9da8-53c8d1a8cf8f"
+  Hint: Transition
+  Value: "{D4B706CC-7EEC-4DB9-A87D-123B29803490}"
+- ID: "3094d236-5985-4c4f-ae6a-e30740885532"
+  Hint: Caching
+  Value: 0|0|0|0|0|0|0|0
+- ID: "692ca003-6520-48f6-a4ac-8d8cdb1d36c4"
+  Hint: Timeout
+  Value: 2000
+- ID: "dbe0ebd9-565a-4f22-bc06-fed95bd21ea8"
+  Hint: PauseOnHover
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20111207T101135Z

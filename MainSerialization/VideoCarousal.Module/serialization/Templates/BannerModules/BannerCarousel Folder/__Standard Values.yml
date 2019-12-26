@@ -1,0 +1,25 @@
+﻿---
+ID: "593e868b-5b95-436b-9085-4ec9342c5965"
+Parent: "65afc844-50f3-4b3f-9081-800345f5e487"
+Template: "65afc844-50f3-4b3f-9081-800345f5e487"
+Path: /sitecore/templates/Feature/BannerModules/BannerCarousel Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {3E202B19-D6E1-4DE2-BF31-C253FBCFB22C}
+    {65AFC844-50F3-4B3F-9081-800345F5E487}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071502Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

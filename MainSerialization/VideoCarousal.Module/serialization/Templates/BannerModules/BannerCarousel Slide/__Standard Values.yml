@@ -1,0 +1,35 @@
+﻿---
+ID: "03c44253-e04f-41fa-9b78-67e5eb4426da"
+Parent: "8f8836d8-d790-4a9f-aae0-31c8572ba2fe"
+Template: "8f8836d8-d790-4a9f-aae0-31c8572ba2fe"
+Path: /sitecore/templates/Feature/BannerModules/BannerCarousel Slide/__Standard Values
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{B8AB7438-FF88-41A2-B0FD-493FB644E1B2}">
+        <r
+          ds=""
+          id="{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
+          par="FieldNames=%7B7C5FEDFB-F002-4136-99B0-5ED23040938B%7D&amp;Styles"
+          ph="section-content"
+          uid="{CB7B1C66-77F9-45E4-9AA3-12AC3E1EDF5A}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T104300Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

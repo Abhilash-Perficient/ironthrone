@@ -1,0 +1,18 @@
+﻿---
+ID: "0505a40b-bc52-4e98-933f-4bce6eda6065"
+Parent: "3e202b19-d6e1-4de2-bf31-c253fbcfb22c"
+Template: "a016c107-971c-4c16-a871-a6433b58041a"
+Path: /sitecore/templates/Feature/BannerModules/BannerCarousel Branch/$name
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170705T154205Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
