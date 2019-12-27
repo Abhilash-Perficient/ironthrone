@@ -69,13 +69,11 @@ Languages:
         sitecore\admin
     - ID: "61806310-56f9-4b76-8c0f-ed692f03361a"
       Hint: ButtonLink
-      Value: |
-        <link text="ButtonLink" anchor="" linktype="internal" class="" title=""  querystring="" id="{0D137628-F2BB-4BCF-8C69-CC172ADB2DBF}" />
+      Value: 
     - ID: "bf35a4fa-9a6e-45a3-b987-2e49e37937f2"
       Hint: Video
       Value: |
         <link linktype="media" target="" id="{652478A7-EAE2-462D-8FB2-6EF313EF537D}" />
     - ID: "ef62b53b-54a2-4d89-8063-a1b90a6843eb"
       Hint: SideLink
-      Value: |
-        <link text="SideLink" anchor="" linktype="internal" class="" title=""  querystring="" id="{0D137628-F2BB-4BCF-8C69-CC172ADB2DBF}" />
+      Value: 

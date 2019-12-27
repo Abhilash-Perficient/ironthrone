@@ -13,7 +13,10 @@ SharedFields:
   Value: 300
 - ID: "db805bdc-8eec-4238-b174-2427b6f1f077"
   Hint: Tag
-  Value: "{FF819CDE-E98A-4AB7-B8B0-65EE989369F7}"
+  Value: 
+- ID: "dcb05e5e-7151-4226-a3b0-108c5e2f05b5"
+  Hint: IsLink
+  Value: 1
 Languages:
 - Language: en
   Versions:

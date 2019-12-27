@@ -63,7 +63,7 @@ Languages:
     - ID: "61806310-56f9-4b76-8c0f-ed692f03361a"
       Hint: ButtonLink
       Value: |
-        <link text="ButtonLink" anchor="" linktype="internal" class="" title=""  querystring="" id="{0D137628-F2BB-4BCF-8C69-CC172ADB2DBF}" />
+        <link linktype="internal" text="Home Link" querystring="" target="" id="{0D137628-F2BB-4BCF-8C69-CC172ADB2DBF}" />
     - ID: "bf35a4fa-9a6e-45a3-b987-2e49e37937f2"
       Hint: Video
       Value: |
@@ -71,4 +71,4 @@ Languages:
     - ID: "ef62b53b-54a2-4d89-8063-a1b90a6843eb"
       Hint: SideLink
       Value: |
-        <link text="SideLink" anchor="" linktype="internal" class="" title=""  querystring="" id="{0D137628-F2BB-4BCF-8C69-CC172ADB2DBF}" />
+        <link linktype="internal" text="ucsf home link" querystring="" target="" id="{0D137628-F2BB-4BCF-8C69-CC172ADB2DBF}" />
