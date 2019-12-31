@@ -1,0 +1,25 @@
+﻿---
+ID: "6570b387-9d7e-48bc-96c8-defed2d7923b"
+Parent: "e3a64189-bbac-4185-b0ad-57cc2d2b6c4a"
+Template: "bb8a85ab-1f6d-4518-8772-1c9f4f8dac18"
+Path: /sitecore/content/ironthrone/health/Home/Data/Image 1
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191230T140303Z
+    - ID: "4f52b258-7b05-4d6c-8c96-2e2eac46dc1b"
+      Hint: ImageCaption
+      Value: Challenging what's possible
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "ebe4fdef-16d5-4d19-833c-24a241628a3a"
+      Hint: Image
+      Value: |
+        <image mediaid="{FEF1B5AD-C99F-4A47-AEBF-9F595C381FD2}" />

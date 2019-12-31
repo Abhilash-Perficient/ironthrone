@@ -1,0 +1,21 @@
+﻿---
+ID: "1d2c8e04-a13d-430e-9487-336c0b72c795"
+Parent: "ef25de8b-6ac8-4acb-bbec-ab7627f3b2a1"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/content/ironthrone/health/Presentation/Rendering Variants/Page Content/OurTeamsVariant/TitleSection/Title
+DB: master
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: Title
+- ID: "db805bdc-8eec-4238-b174-2427b6f1f077"
+  Hint: Tag
+  Value: "{AD7A95FD-05D0-484E-8AFB-FB1DDD5F44AB}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191230T135748Z

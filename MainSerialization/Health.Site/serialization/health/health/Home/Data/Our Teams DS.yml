@@ -1,0 +1,23 @@
+﻿---
+ID: "7329e030-9116-4fd5-b866-4faec4c88082"
+Parent: "e3a64189-bbac-4185-b0ad-57cc2d2b6c4a"
+Template: "56510be6-a239-4982-ac9f-d4dc7c3b20d7"
+Path: /sitecore/content/ironthrone/health/Home/Data/Our Teams DS
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191230T134848Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Our Teams DS
+    - ID: "52738fde-ab3e-4bf1-8fd2-34b14850c91e"
+      Hint: Content
+      Value: We tackle the most difficult challenges, not only to provide the best possible health outcomes for our patients but to push innovation further.
+    - ID: "8bd30636-b2dd-42db-9030-7770a874f8b5"
+      Hint: Title
+      Value: Our teams welcome the toughest cases
