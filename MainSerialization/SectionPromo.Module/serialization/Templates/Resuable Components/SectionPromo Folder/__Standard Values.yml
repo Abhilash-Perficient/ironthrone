@@ -1,0 +1,25 @@
+﻿---
+ID: "53fc2c3a-6086-4aa4-8da8-38422fb68483"
+Parent: "9104a067-56f0-4ce7-82ae-b50755d10247"
+Template: "9104a067-56f0-4ce7-82ae-b50755d10247"
+Path: /sitecore/templates/Feature/Resuable Components/SectionPromo Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {A1A49AD0-C0D1-458C-B9DC-4507AD0EB39C}
+    {9104A067-56F0-4CE7-82AE-B50755D10247}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071605Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
