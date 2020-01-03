@@ -1,0 +1,24 @@
+﻿---
+ID: "3d7a0899-685a-4271-8ed9-2a1ec4fbf9c1"
+Parent: "3321147d-9ed4-419b-9f67-99580e3c1114"
+Template: "56510be6-a239-4982-ac9f-d4dc7c3b20d7"
+Path: /sitecore/content/ironthrone/health/Home/Test Healthcare/TestHealthcarePageContent
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200103T044342Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: TestHealthcarePageContent
+    - ID: "52738fde-ab3e-4bf1-8fd2-34b14850c91e"
+      Hint: Content
+      Value: |
+        <span style="background-color: #ffffff; letter-spacing: 0.2px; color: #052049;">We are here to deliver the best possible health care to everybody through caring, healing, teaching and discovering.</span>
+    - ID: "8bd30636-b2dd-42db-9030-7770a874f8b5"
+      Hint: Title
+      Value: Making health care accessible to all

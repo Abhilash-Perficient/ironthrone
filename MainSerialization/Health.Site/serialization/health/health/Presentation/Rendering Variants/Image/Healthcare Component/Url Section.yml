@@ -1,0 +1,14 @@
+﻿---
+ID: "80f32ed9-ef50-495f-bd9d-8f7a2a1b42f8"
+Parent: "af368544-c605-49c2-bc7e-ee7bcbb62faf"
+Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
+Path: /sitecore/content/ironthrone/health/Presentation/Rendering Variants/Image/Healthcare Component/Url Section
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200103T050348Z

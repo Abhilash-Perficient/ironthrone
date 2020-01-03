@@ -1,0 +1,18 @@
+﻿---
+ID: "ae85f6a4-cc46-4b0b-9d52-1dbf3ecc173b"
+Parent: "72c85862-df92-4c93-8e64-1a1820faa813"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/ironthrone/health/Healthcare
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200103T050615Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

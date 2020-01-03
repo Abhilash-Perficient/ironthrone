@@ -1,0 +1,18 @@
+﻿---
+ID: "fe5b6872-bef8-45c8-8635-2105fa63a311"
+Parent: "ea958be1-42f4-4b83-b310-0ff7eaf3330d"
+Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
+Path: /sitecore/content/ironthrone/health/Presentation/Rendering Variants/Page Content/Simple Content/Heading
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200103T044639Z

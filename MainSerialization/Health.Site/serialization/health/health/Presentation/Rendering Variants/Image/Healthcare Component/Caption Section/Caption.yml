@@ -1,0 +1,18 @@
+﻿---
+ID: "b91c8108-538d-4e28-bc3f-f2891931ebfb"
+Parent: "bdcf0acf-86fc-4592-a778-87e00b615e09"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/content/ironthrone/health/Presentation/Rendering Variants/Image/Healthcare Component/Caption Section/Caption
+DB: master
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: ImageCaption
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200103T050424Z

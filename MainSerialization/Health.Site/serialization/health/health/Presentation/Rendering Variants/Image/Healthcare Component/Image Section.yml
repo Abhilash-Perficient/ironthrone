@@ -1,0 +1,18 @@
+﻿---
+ID: "3b03aa61-28cd-4610-95ee-9ede435f0b88"
+Parent: "af368544-c605-49c2-bc7e-ee7bcbb62faf"
+Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
+Path: /sitecore/content/ironthrone/health/Presentation/Rendering Variants/Image/Healthcare Component/Image Section
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200103T050314Z

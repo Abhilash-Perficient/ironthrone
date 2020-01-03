@@ -1,0 +1,22 @@
+﻿---
+ID: "91f726b5-75b8-4d16-8c3d-22f12433c76a"
+Parent: "13672435-8a07-411d-b439-2be87b7f44cb"
+Template: "f4218805-86dd-4a01-a94d-7342fc392bcc"
+Path: /sitecore/content/ironthrone/health/Presentation/Rendering Variants/Page Content/Healthcare/Healthcare Main/Healthcare Description/Healthcare Description
+DB: master
+SharedFields:
+- ID: "e33b1e31-c30f-4f60-bb26-76be8f12b1cb"
+  Hint: Placeholder Key
+  Value: healthcareDescription
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191231T115005Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
