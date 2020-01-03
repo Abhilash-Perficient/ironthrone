@@ -1,0 +1,22 @@
+﻿---
+ID: "abf54785-fa05-463a-8540-b81eb0c6f708"
+Parent: "493e87eb-513b-432f-ad72-7ec90d2d3564"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/content/ironthrone/health/Presentation/Rendering Variants/SectionPromo/Default/Promo Text/Promo Body/Promo Text
+DB: master
+BranchID: "eda2651e-3fe2-4ace-ba1e-3e0648bc37da"
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: PromoText
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{31105BC0-B75E-4817-BAE1-6D1FBEA04F41}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200103T131521Z

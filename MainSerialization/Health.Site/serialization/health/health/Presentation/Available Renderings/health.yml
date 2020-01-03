@@ -1,0 +1,27 @@
+﻿---
+ID: "9cf8b59b-adfa-453f-bd51-a306ba487737"
+Parent: "d0b8b57f-74d5-4dc3-a89c-39baa19428c0"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: /sitecore/content/ironthrone/health/Presentation/Available Renderings/health
+DB: master
+BranchID: "081f4521-1951-4c4d-8572-2b802c08dfc0"
+SharedFields:
+- ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
+  Hint: Renderings
+  Type: TreelistEx
+  Value: "{C8F344F0-5BA8-4FF1-ABDF-A738B6F0C118}"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{DFF84CB2-8C1C-442A-912A-A7F369EAC9A2}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200103T131506Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
