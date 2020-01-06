@@ -22,11 +22,39 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
-              uid="{8371404C-0E8D-4415-ACB2-54E30B158877}"
+              uid="{B0AF3C8F-B09A-4E10-9A97-21E26B782E42}"
               p:before="*"
+              s:ds="local:/Data/UCSF Device Could Revolutionize In-Home Dialysis for Kidney Patients"
+              s:id="{4A0D4E0B-BC20-4F2E-BD84-A4BD35834E86}"
+              s:par="RenderingIdentifier&amp;Styles&amp;GridParameters=%7b230F8E81-AEDC-4F01-8C70-B65C0C0CD2A6%7d&amp;FieldNames=%7bAF368544-C605-49C2-BC7E-EE7BCBB62FAF%7d&amp;DynamicPlaceholderId=12&amp;Reset Caching Options"
+              s:ph="/main/healthcaremain-1-1" />
+            <r
+              uid="{FE32C4F3-5225-4636-A3BA-B82D268E3D4C}"
+              p:after="r[@uid='{B0AF3C8F-B09A-4E10-9A97-21E26B782E42}']"
+              s:ds="local:/Data/UCSF Community Reflects on LGBT Progress and Identity"
+              s:id="{4A0D4E0B-BC20-4F2E-BD84-A4BD35834E86}"
+              s:par="RenderingIdentifier&amp;Styles&amp;GridParameters=%7b230F8E81-AEDC-4F01-8C70-B65C0C0CD2A6%7d&amp;FieldNames=%7bAF368544-C605-49C2-BC7E-EE7BCBB62FAF%7d&amp;DynamicPlaceholderId=13&amp;Reset Caching Options"
+              s:ph="/main/healthcaremain-1-1" />
+            <r
+              uid="{BCF34CFB-0B92-4E07-A2AE-33DA0CAACD0F}"
+              p:after="r[@uid='{FE32C4F3-5225-4636-A3BA-B82D268E3D4C}']"
+              s:ds="local:/Data/Clinic Brings HIV Care to San Franciscos Homeless"
+              s:id="{4A0D4E0B-BC20-4F2E-BD84-A4BD35834E86}"
+              s:par="RenderingIdentifier&amp;Styles&amp;GridParameters=%7b230F8E81-AEDC-4F01-8C70-B65C0C0CD2A6%7d&amp;FieldNames=%7bAF368544-C605-49C2-BC7E-EE7BCBB62FAF%7d&amp;DynamicPlaceholderId=14&amp;Reset Caching Options"
+              s:ph="/main/healthcaremain-1-1" />
+            <r
+              uid="{F0213174-880B-4872-8976-9CA906DD8CC8}"
+              p:after="r[@uid='{BCF34CFB-0B92-4E07-A2AE-33DA0CAACD0F}']"
               s:ds="local:/Data/Meet the UCSF Fellow Taking on Cervical Cancer in Rural Kenya"
               s:id="{4A0D4E0B-BC20-4F2E-BD84-A4BD35834E86}"
-              s:par="GridParameters=%7BB189FA58-BB5A-4DB8-AF4C-A72AE36F773C%7D&amp;FieldNames=%7BAF368544-C605-49C2-BC7E-EE7BCBB62FAF%7D&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=11"
+              s:par="RenderingIdentifier&amp;Styles&amp;GridParameters=%7b230F8E81-AEDC-4F01-8C70-B65C0C0CD2A6%7d&amp;FieldNames=%7bAF368544-C605-49C2-BC7E-EE7BCBB62FAF%7d&amp;DynamicPlaceholderId=15&amp;Reset Caching Options"
+              s:ph="/main/healthcaremain-1-1" />
+            <r
+              uid="{8371404C-0E8D-4415-ACB2-54E30B158877}"
+              p:after="r[@uid='{F0213174-880B-4872-8976-9CA906DD8CC8}']"
+              s:ds="local:/Data/Meet the UCSF Fellow Taking on Cervical Cancer in Rural Kenya"
+              s:id="{4A0D4E0B-BC20-4F2E-BD84-A4BD35834E86}"
+              s:par="RenderingIdentifier&amp;Styles&amp;GridParameters=%7bB189FA58-BB5A-4DB8-AF4C-A72AE36F773C%7d&amp;FieldNames=%7bAF368544-C605-49C2-BC7E-EE7BCBB62FAF%7d&amp;DynamicPlaceholderId=11&amp;Reset Caching Options"
               s:ph="/main/healthcareinfo-2-1" />
             <r
               uid="{F8483D99-F9DA-4E2D-8F90-515E9D66AB76}"
@@ -40,14 +68,14 @@ Languages:
               p:after="r[@uid='{F8483D99-F9DA-4E2D-8F90-515E9D66AB76}']"
               s:ds="local:/Data/UCSF Community Reflects on LGBT Progress and Identity"
               s:id="{4A0D4E0B-BC20-4F2E-BD84-A4BD35834E86}"
-              s:par="RenderingIdentifier&amp;Styles&amp;GridParameters=%7BB189FA58-BB5A-4DB8-AF4C-A72AE36F773C%7D&amp;FieldNames=%7BAF368544-C605-49C2-BC7E-EE7BCBB62FAF%7D&amp;DynamicPlaceholderId=9&amp;Reset Caching Options"
+              s:par="RenderingIdentifier&amp;Styles&amp;GridParameters=%7bB189FA58-BB5A-4DB8-AF4C-A72AE36F773C%7d&amp;FieldNames=%7bAF368544-C605-49C2-BC7E-EE7BCBB62FAF%7d&amp;DynamicPlaceholderId=9&amp;Reset Caching Options"
               s:ph="/main/healthcareinfo-2-1" />
             <r
               uid="{D141DC13-9FB3-4675-B6EE-4D423DE5E796}"
               p:after="r[@uid='{D47048A7-B5FE-45FC-80A1-B153940B9D71}']"
               s:ds="local:/Data/Clinic Brings HIV Care to San Franciscos Homeless"
               s:id="{4A0D4E0B-BC20-4F2E-BD84-A4BD35834E86}"
-              s:par="RenderingIdentifier&amp;Styles&amp;GridParameters=%7BB189FA58-BB5A-4DB8-AF4C-A72AE36F773C%7D&amp;FieldNames=%7BAF368544-C605-49C2-BC7E-EE7BCBB62FAF%7D&amp;DynamicPlaceholderId=10&amp;Reset Caching Options"
+              s:par="RenderingIdentifier&amp;Styles&amp;GridParameters=%7bB189FA58-BB5A-4DB8-AF4C-A72AE36F773C%7d&amp;FieldNames=%7bAF368544-C605-49C2-BC7E-EE7BCBB62FAF%7d&amp;DynamicPlaceholderId=10&amp;Reset Caching Options"
               s:ph="/main/healthcareinfo-2-1" />
             <r
               uid="{9BF17A3D-CD69-4FCD-95D5-C6F9CB678B7B}"
