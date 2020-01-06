@@ -1,0 +1,35 @@
+﻿---
+ID: "102beace-2efd-42b6-915e-6351950c41df"
+Parent: "f8b2f2af-944d-4f2c-80ec-f80e45c33cc1"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Themes/ironthrone/health/Health Theme/Scripts/component-top-navigation"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/102BEACE2EFD42B6915E6351950C41DF.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "3ff0e2fa-8f68-48b9-b7da-dc73fbda6f95"
+  Value: WEEuY29tcG9uZW50LnRvcE5hdmlnYXRpb24gPSAoZnVuY3Rpb24gKCQpIHsNCiAgICB2YXIgdG9wTmF2aWdhdGlvbiA9IHt9Ow0KDQogICAgdG9wTmF2aWdhdGlvbi5pbml0SW5pdGlhbGl6ZWQgPSBmdW5jdGlvbiAoY29tcG9uZW50KSB7DQogICAgICAgIHRvcE5hdmlnYXRpb24udG9nZ2xlRHJvcGRvd24oY29tcG9uZW50KTsNCiAgICB9DQoNCiAgICB0b3BOYXZpZ2F0aW9uLnRvZ2dsZURyb3Bkb3duID0gZnVuY3Rpb24gKGNvbXBvbmVudCkgew0KICAgICAgICB2YXIgZHJvcGRvd24gPSBjb21wb25lbnQuZmluZCgiLmRyb3Bkb3duLWxpc3QiKTsNCiAgICAgICAgdmFyIGNvbnRhY3QgPSBjb21wb25lbnQuZmluZCgiLnRvcC1uYXYtY29udGFjdCIpOw0KDQogICAgICAgIGRyb3Bkb3duLmZpbmQoInVsIikuYXBwZW5kKCI8bGkgY2xhc3M9JyIgKyBjb250YWN0LmF0dHIoImNsYXNzIikgKyAiIGFjdGl2ZSc+IiArIGNvbnRhY3QudGV4dCgpICsgIjwvbGk+Iik7DQogICAgICAgIGRyb3Bkb3duLmZpbmQoImgzIikub24oImNsaWNrIiwgZnVuY3Rpb24gKCkgew0KICAgICAgICAgICAgZHJvcGRvd24udG9nZ2xlQ2xhc3MoImFjdGl2ZSIpOw0KICAgICAgICB9KTsgICAgICAgIA0KICAgIH0NCg0KICAgIHRvcE5hdmlnYXRpb24uaW5pdCA9IGZ1bmN0aW9uICgpIHsNCiAgICAgICAgdmFyICR0b3BOYXYgPSAkKCIudG9wLW5hdjpub3QoaW5pdGlhbGl6ZWQpIik7DQogICAgICAgICR0b3BOYXYuZWFjaChmdW5jdGlvbiAoKSB7DQogICAgICAgICAgICB2YXIgaW5zdGFuY2UgPSAkKHRoaXMpOw0KICAgICAgICAgICAgdG9wTmF2aWdhdGlvbi5pbml0SW5pdGlhbGl6ZWQoaW5zdGFuY2UpOw0KICAgICAgICAgICAgJCh0aGlzKS5hZGRDbGFzcygiaW5pdGlhbGl6ZWQiKTsNCiAgICAgICAgfSk7DQogICAgfQ0KDQogICAgcmV0dXJuIHRvcE5hdmlnYXRpb247DQp9KGpRdWVyeSwgZG9jdW1lbnQpKTsNCg0KWEEucmVnaXN0ZXIoInRvcC1uYXYiLCBYQS5jb21wb25lbnQudG9wTmF2aWdhdGlvbik7
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 1014
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: "application/x-javascript"
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: js
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191205T133324Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

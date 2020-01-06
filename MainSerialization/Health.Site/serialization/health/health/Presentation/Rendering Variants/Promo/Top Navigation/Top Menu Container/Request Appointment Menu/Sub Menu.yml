@@ -1,9 +1,13 @@
 ﻿---
-ID: "43279968-2c8c-48f6-bdab-2d29438083b5"
-Parent: "7f66fcfb-8c3d-43b0-af24-677b04e60484"
+ID: "06c99b8e-f89b-4ab3-bf11-ee5bd9a65607"
+Parent: "9ce4a759-46b2-41f6-ba93-c01a5903624d"
 Template: "f4218805-86dd-4a01-a94d-7342fc392bcc"
-Path: /sitecore/content/ironthrone/health/Presentation/Rendering Variants/Promo/Top Navigation/Top Menu Container/Sub Menu/Sub Menu
+Path: /sitecore/content/ironthrone/health/Presentation/Rendering Variants/Promo/Top Navigation/Top Menu Container/Request Appointment Menu/Sub Menu
 DB: master
+SharedFields:
+- ID: "e9d58e74-648f-4a20-a8ee-f95c171601b3"
+  Hint: CssClass
+  Value: "top-nav-dropdown"
 Languages:
 - Language: en
   Versions:
