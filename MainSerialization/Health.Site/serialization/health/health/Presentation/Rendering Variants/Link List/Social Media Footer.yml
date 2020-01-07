@@ -1,0 +1,18 @@
+﻿---
+ID: "3f2bf5af-e229-4807-ab1f-deb4242eae76"
+Parent: "517a8e36-659b-4f55-85b7-ef7a81027021"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: /sitecore/content/ironthrone/health/Presentation/Rendering Variants/Link List/Social Media Footer
+DB: master
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{C5678F86-D23D-41CA-B236-A1989FCFDAC7}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191127T080228Z

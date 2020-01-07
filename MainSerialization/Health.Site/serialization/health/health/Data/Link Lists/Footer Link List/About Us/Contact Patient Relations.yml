@@ -1,0 +1,22 @@
+﻿---
+ID: "07ae062a-bad8-43ef-88a8-4e87744b9574"
+Parent: "23dbd45a-6a95-495d-80a3-af9ff5154d1c"
+Template: "e24e0789-a058-48bf-abb6-c69c0e60b6b7"
+Path: /sitecore/content/ironthrone/health/Data/Link Lists/Footer Link List/About Us/Contact Patient Relations
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191202T113826Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
+      Hint: Link
+      Value: |
+        <link text="Contact Patient Relations" linktype="anchor" url="" anchor="" title="" class="" />

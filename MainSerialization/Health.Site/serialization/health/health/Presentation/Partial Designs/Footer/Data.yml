@@ -1,0 +1,14 @@
+﻿---
+ID: "135d5713-dda9-4866-86ad-113e1d004a0e"
+Parent: "2eb32cc8-7301-4efa-a4ff-254793a15934"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/ironthrone/health/Presentation/Partial Designs/Footer/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191204T073128Z
