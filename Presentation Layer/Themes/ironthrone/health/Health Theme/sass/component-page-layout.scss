@@ -1,0 +1,26 @@
+@import "abstracts/mixins";
+@import "abstracts/vars";
+
+/*Full Width Layout*/
+#wrapper{
+    header{
+        margin: 0 -15px;
+    }
+    .row{
+        max-width: 100%;
+        width: 100%;
+    }
+    #header{
+        &.row{
+            .columns{
+                padding: 0 15px;
+            }
+            & >.component{
+                & > .columns{
+                    padding: 0;
+                }
+            }
+        }
+    }
+}
+/*End of Full Width Layout*/
