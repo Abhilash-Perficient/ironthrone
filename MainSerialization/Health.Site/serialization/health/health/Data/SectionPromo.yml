@@ -1,0 +1,14 @@
+﻿---
+ID: "606315ed-a5f9-46a9-a0b0-5467024b056e"
+Parent: "9cb0025e-befe-4eff-be3a-9fd0c27dfd2d"
+Template: "9104a067-56f0-4ce7-82ae-b50755d10247"
+Path: /sitecore/content/ironthrone/health/Data/SectionPromo
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200103T131508Z

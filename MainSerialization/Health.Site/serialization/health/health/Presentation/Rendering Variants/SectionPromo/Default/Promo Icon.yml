@@ -1,0 +1,22 @@
+﻿---
+ID: "1ca4d0c7-bd81-4129-b9ec-a8434fce2b7c"
+Parent: "b7e5e76c-0d4b-4a27-84a5-f47e1b2ecba7"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/content/ironthrone/health/Presentation/Rendering Variants/SectionPromo/Default/Promo Icon
+DB: master
+BranchID: "eda2651e-3fe2-4ace-ba1e-3e0648bc37da"
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: PromoIcon
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{6213A0B1-FB39-4159-8D2A-CBDC21C3944B}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200103T131519Z
